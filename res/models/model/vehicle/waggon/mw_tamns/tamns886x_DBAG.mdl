@@ -38,13 +38,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod0.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod0.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -62,13 +62,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod0.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod0.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -123,13 +123,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -147,13 +147,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -189,13 +189,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -213,13 +213,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -253,7 +253,7 @@ return {
 			static = false,
 			visibleFrom = 1000,
 			visibleTo = 2500,
-		}, 
+		},
 	},
 	metadata = {
 		availability = {
@@ -289,7 +289,7 @@ return {
                     innerBackwardParts = { }
 			    },
 			    {
-					axles = { "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh", }, 
+					axles = { "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh", },
 				},
 				{
 					axles = { "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh", },
@@ -391,13 +391,13 @@ return {
 								configurations = {
 									{
 										slotLevels = {
-											{  },			
+											{  },
 											{ 0 },
-											{ 1 },			
-											{ 2 },			
-											{ 3 },									
+											{ 1 },
+											{ 2 },
+											{ 3 },
 										},
-									},									
+									},
 								},
 							},
 							type = "IRON_ORE",
@@ -410,13 +410,13 @@ return {
 								configurations = {
 									{
 										slotLevels = {
-											{  },			
+											{  },
 											{ 4 },
-											{ 5 },			
-											{ 6 },			
-											{ 7 },									
+											{ 5 },
+											{ 6 },
+											{ 7 },
 										},
-									},									
+									},
 								},
 							},
 							type = "STONE",
@@ -429,13 +429,13 @@ return {
 								configurations = {
 									{
 										slotLevels = {
-											{  },			
+											{  },
 											{ 8 },
-											{ 9 },			
-											{ 10 },			
-											{ 11 },									
+											{ 9 },
+											{ 10 },
+											{ 11 },
 										},
-									},									
+									},
 								},
 							},
 							type = "COAL",

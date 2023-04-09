@@ -24,7 +24,7 @@ return {
 					},
 					{
 						_meshId = 1,
-						materials = { "vehicle/waggon/mw_tamns/893/rumpf_DB.mtl", },
+						materials = { "vehicle/waggon/mw_tamns/893/rumpf_braun_DBAG.mtl", },
 						mesh = "vehicle/waggon/mw_tamns/893/rumpf_puffer2_lod0.msh",
 						name = "893/rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -38,13 +38,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod0.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod0.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -62,13 +62,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod0.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod0.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -109,7 +109,7 @@ return {
 					},
 					{
 						_meshId = 1,
-						materials = { "vehicle/waggon/mw_tamns/893/rumpf_DB.mtl", },
+						materials = { "vehicle/waggon/mw_tamns/893/rumpf_braun_DBAG.mtl", },
 						mesh = "vehicle/waggon/mw_tamns/893/rumpf_puffer2_lod0.msh",
 						name = "893/rumpf",
 						transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
@@ -123,13 +123,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -147,13 +147,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -189,13 +189,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -213,13 +213,13 @@ return {
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, -0.9, 0, 0.45162, 1, },
 					        },
                             {
-						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_931.mtl", },
+						        materials = { "vehicle/waggon/modwerkstatt_basis/dg_ba_645.mtl", },
 						        mesh = "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh",
 						        name = "",
 						        transf = { 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 0.9, 0, 0.45162, 1, },
@@ -253,7 +253,7 @@ return {
 			static = false,
 			visibleFrom = 1000,
 			visibleTo = 2500,
-		}, 
+		},
 	},
 	metadata = {
 		availability = {
@@ -289,7 +289,7 @@ return {
                     innerBackwardParts = { }
 			    },
 			    {
-					axles = { "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh", }, 
+					axles = { "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod1.msh", },
 				},
 				{
 					axles = { "vehicle/waggon/modwerkstatt_basis/dg_achse_920mm_lod2.msh", },
@@ -330,10 +330,10 @@ return {
 								configurations = {
 									{
 										slotLevels = {
-											{ 0 },			
-											{ 1 },							
+											{ 0 },
+											{ 1 },
 										},
-									},									
+									},
 								},
 							},
 							type = "CONSTRUCTION_MATERIALS",
@@ -346,10 +346,10 @@ return {
 								configurations = {
 									{
 										slotLevels = {
-											{ 0 },			
-											{ 1 },							
+											{ 0 },
+											{ 1 },
 										},
-									},									
+									},
 								},
 							},
 							type = "STONE",
