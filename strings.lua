@@ -53,7 +53,7 @@ return {
 	de = {
 
 		["mod_name"] = "Tamns 886 und 893 DB",
-		["mod_desc"] = "Dieser Mod enthält die vierachsigen Güterwagen des Typs Tamns 886, Tamns-x 886 und Tamns 893. Das Paket enthält zahlreichen Lackierungen der DB und DB AG.\n\nBenötigt den Mod \"modwerkstatt_offenegueterwagen_1\".",
+		["mod_desc"] = "Dieser Mod enthält die vierachsigen Güterwagen des Typs Tamns 886, Tamns-x 886 und Tamns 893. Das Paket enthält zahlreiche Lackierungen der DB und DB AG.\n\nBenötigt den Mod \"modwerkstatt_offenegueterwagen_1\".",
 
         ["Fake_tamns_wagen"] = "Tamns Fake-Versionen aktivieren?",
         ["option_fake_tamns_desc"] = "Sollen die Fake-Versionen der Tamns 886 und 893 verfügbar sein im Spiel?",
